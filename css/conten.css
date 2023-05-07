@@ -1,0 +1,27 @@
+.contenido {
+   text-align: center;
+   padding: 10px;   
+}
+
+.contenido ol {
+    border: 1px solid black; 
+}
+
+.contenido ol li {
+    border: 1px solid black;
+}
+
+.title-seccion {
+    text-decoration:underline;
+}
+
+.footer {
+    padding: 10px;
+    background-color: #f88d87;
+    display: flex;
+}
+
+.final {
+   margin-left: auto;
+   color: white;
+}

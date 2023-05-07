@@ -1,0 +1,15 @@
+.header {
+    background-color: #f88d87;
+    display: flex;   
+    padding: 10px;
+}
+
+.title {
+    margin: auto;
+    text-align: center;
+   color: white;
+}
+
+.image {
+    display: contents;
+}
